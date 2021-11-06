@@ -18,11 +18,11 @@
 
  - 压缩文件和脚本所在文件
 
-   ![](.\images\目录1.png)
+   ![](https://github.com/MGboyNew/hadoop-shell-script/blob/main/images/%E7%9B%AE%E5%BD%951.png)
 
 - 压缩文件和脚本所在目录
 
-  ![](.\images\目录2.png)
+  ![](https://github.com/MGboyNew/hadoop-shell-script/blob/main/images/%E7%9B%AE%E5%BD%951.png)
 
   说明：
 
