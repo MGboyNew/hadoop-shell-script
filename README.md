@@ -22,7 +22,7 @@
 
 - 压缩文件和脚本所在目录
 
-  ![](https://github.com/MGboyNew/hadoop-shell-script/blob/main/images/%E7%9B%AE%E5%BD%951.png)
+  ![](https://github.com/MGboyNew/hadoop-shell-script/blob/main/images/%E7%9B%AE%E5%BD%952.png)
 
   说明：
 
